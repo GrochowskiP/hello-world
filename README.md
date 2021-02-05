@@ -1,2 +1,6 @@
 # hello-world
-new file
+
+Witaj Świecie,
+
+Jestem nowy tutaj i sie ucze
+Pozdrawiam
